@@ -1,0 +1,30 @@
+.headermain {
+
+    padding: 0 20px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    height: 85px;
+}
+
+.navbar  {
+
+    height: 85px;
+    background-color: none !important;
+    padding: 0px !important;
+}
+
+.container-fluid {
+
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.navbar-expand-lg .navbar-nav {
+    
+    gap: 20px;
+}
+
+.navbar-brand {
+
+    margin: 0px !important;
+}

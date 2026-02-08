@@ -1,10 +1,13 @@
+import Header from "./Components/Header/Header";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const App = () => {
 
   return(
 
     <>
-    
-      <h1>Restaurant App</h1>
+
+       <Header />    
     </>
   )
 }
