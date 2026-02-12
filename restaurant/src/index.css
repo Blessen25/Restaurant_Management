@@ -5,3 +5,239 @@
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
 }
+
+.big_head {
+
+    font-size: 38px;
+}
+
+.normal_head {
+
+    font-size: 30px;
+}
+
+.small_head {
+
+    font-size: 24px;
+}
+
+
+.big_para {
+
+    font-size: 22px;
+}
+
+.normal_para {
+
+    font-size: 18px;
+}
+
+.small_para {
+
+    font-size: 14px;
+}
+
+.big_icon {
+ 
+    font-size: 22px;
+}
+
+.normal_icon {
+ 
+    font-size: 18px;
+}
+
+.small_icon {
+ 
+    font-size: 14px;
+}
+
+.font_fam_900 {
+
+    font-weight: 900;
+}
+
+.font_fam_800 {
+
+    font-weight: 800;
+}
+
+.font_fam_700 {
+
+    font-weight: 700;
+}
+
+.font_fam_600 {
+
+    font-weight: 600;
+}
+
+.font_fam_500 {
+
+    font-weight: 500;
+}
+
+.font_fam_400 {
+
+    font-weight: 400;
+}
+
+.font_fam_bold {
+
+    font-weight: bold;
+}
+
+.font_fam_normal {
+
+    font-weight: normal;
+}
+
+.font_fam_light {
+
+    font-weight: lighter;
+}
+
+
+@media screen and (max-width: 991px) {
+    
+    .big_head {
+
+        font-size: 32px;
+    }
+
+    .normal_head {
+
+        font-size: 26px;
+    }
+
+    .small_head {
+
+        font-size: 22px;
+    }
+
+    .big_para {
+
+        font-size: 20px;
+    }
+
+    .normal_para {
+
+        font-size: 16px;
+    }
+
+    .small_para {
+
+        font-size: 13px;
+    }
+
+    .big_icon {
+ 
+        font-size: 20px;
+    }
+
+    .normal_icon {
+    
+        font-size: 16px;
+    }
+
+    .small_icon {
+    
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    
+    .big_head {
+
+        font-size: 28px;
+    }
+
+    .normal_head {
+
+        font-size: 22px;
+    }
+
+    .small_head {
+
+        font-size: 18px;
+    }
+
+    .big_para {
+
+        font-size: 18px;
+    }
+
+    .normal_para {
+
+        font-size: 14px;
+    }
+
+    .small_para {
+
+        font-size: 12px;
+    }
+
+    .big_icon {
+ 
+        font-size: 18px;
+    }
+
+    .normal_icon {
+    
+        font-size: 14px;
+    }
+
+    .small_icon {
+    
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    
+    .big_head {
+
+        font-size: 24px;
+    }
+
+    .normal_head {
+
+        font-size: 18px;
+    }
+
+    .small_head {
+
+        font-size: 16px;
+    }
+
+    .big_para {
+
+        font-size: 14px;
+    }
+
+    .normal_para {
+
+        font-size: 12px;
+    }
+
+    .small_para {
+
+        font-size: 10px;
+    }
+
+    .big_icon {
+ 
+        font-size: 14px;
+    }
+
+    .normal_icon {
+    
+        font-size: 12px;
+    }
+
+    .small_icon {
+    
+        font-size: 10px;
+    }
+}
