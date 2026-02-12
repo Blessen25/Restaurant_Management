@@ -8,93 +8,93 @@
 
 .big_head {
 
-    font-size: 38px;
+    font-size: 38px !important;
 }
 
 .normal_head {
 
-    font-size: 30px;
-}
+    font-size: 30px !important;
+} 
 
 .small_head {
 
-    font-size: 24px;
+    font-size: 24px !important;
 }
 
 
 .big_para {
 
-    font-size: 22px;
+    font-size: 22px !important;
 }
 
 .normal_para {
 
-    font-size: 18px;
+    font-size: 18px !important;
 }
 
 .small_para {
 
-    font-size: 14px;
+    font-size: 14px !important;
 }
 
 .big_icon {
  
-    font-size: 22px;
+    font-size: 22px !important;
 }
 
 .normal_icon {
  
-    font-size: 18px;
+    font-size: 18px !important;
 }
 
 .small_icon {
  
-    font-size: 14px;
+    font-size: 14px !important;
 }
 
 .font_fam_900 {
 
-    font-weight: 900;
+    font-weight: 900 !important;
 }
 
 .font_fam_800 {
 
-    font-weight: 800;
+    font-weight: 800 !important;
 }
 
 .font_fam_700 {
 
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
 .font_fam_600 {
 
-    font-weight: 600;
+    font-weight: 600 !important;
 }
 
 .font_fam_500 {
 
-    font-weight: 500;
+    font-weight: 500 !important;
 }
 
 .font_fam_400 {
 
-    font-weight: 400;
+    font-weight: 400 !important;
 }
 
 .font_fam_bold {
 
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 .font_fam_normal {
 
-    font-weight: normal;
+    font-weight: normal !important;
 }
 
 .font_fam_light {
 
-    font-weight: lighter;
+    font-weight: lighter !important;
 }
 
 
@@ -102,47 +102,47 @@
     
     .big_head {
 
-        font-size: 32px;
-    }
+        font-size: 32px !important;
+    } 
 
     .normal_head {
 
-        font-size: 26px;
+        font-size: 26px !important;
     }
 
     .small_head {
 
-        font-size: 22px;
+        font-size: 22px !important;
     }
 
     .big_para {
 
-        font-size: 20px;
+        font-size: 20px !important;
     }
 
     .normal_para {
 
-        font-size: 16px;
+        font-size: 16px !important;
     }
 
     .small_para {
 
-        font-size: 13px;
+        font-size: 13px !important;
     }
 
     .big_icon {
  
-        font-size: 20px;
+        font-size: 20px !important;
     }
 
     .normal_icon {
     
-        font-size: 16px;
+        font-size: 16px !important;
     }
 
     .small_icon {
     
-        font-size: 13px;
+        font-size: 13px !important;
     }
 }
 
@@ -150,47 +150,47 @@
     
     .big_head {
 
-        font-size: 28px;
+        font-size: 28px !important;
     }
 
     .normal_head {
 
-        font-size: 22px;
+        font-size: 22px !important;
     }
 
     .small_head {
 
-        font-size: 18px;
+        font-size: 18px !important;
     }
 
     .big_para {
 
-        font-size: 18px;
+        font-size: 18px !important;
     }
 
     .normal_para {
 
-        font-size: 14px;
+        font-size: 14px !important;
     }
 
     .small_para {
 
-        font-size: 12px;
+        font-size: 12px !important;
     }
 
     .big_icon {
  
-        font-size: 18px;
+        font-size: 18px !important;
     }
 
     .normal_icon {
     
-        font-size: 14px;
+        font-size: 14px !important;
     }
 
     .small_icon {
     
-        font-size: 12px;
+        font-size: 12px !important;
     }
 }
 
@@ -198,46 +198,46 @@
     
     .big_head {
 
-        font-size: 24px;
+        font-size: 24px !important;
     }
 
     .normal_head {
 
-        font-size: 18px;
+        font-size: 18px !important;
     }
 
     .small_head {
 
-        font-size: 16px;
+        font-size: 16px !important;
     }
 
     .big_para {
 
-        font-size: 14px;
+        font-size: 14px !important;
     }
 
     .normal_para {
 
-        font-size: 12px;
+        font-size: 12px !important;
     }
 
     .small_para {
 
-        font-size: 10px;
+        font-size: 10px !important;
     }
 
     .big_icon {
  
-        font-size: 14px;
+        font-size: 14px !important;
     }
 
     .normal_icon {
     
-        font-size: 12px;
+        font-size: 12px !important;
     }
 
     .small_icon {
     
-        font-size: 10px;
+        font-size: 10px !important;
     }
 }
